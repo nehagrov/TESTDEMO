@@ -19,6 +19,7 @@ package org.training.cockpits.constants;
 public final class TrainingCockpitsConstants extends GeneratedTrainingCockpitsConstants
 {
 	public static final String EXTENSIONNAME = "trainingcockpits";
+	public static final String EXTENSIONNAME1 = "trainingcockpits";
 
 	public final static String JASPER_REPORTS_MEDIA_FOLDER = "jasperreports";
 
