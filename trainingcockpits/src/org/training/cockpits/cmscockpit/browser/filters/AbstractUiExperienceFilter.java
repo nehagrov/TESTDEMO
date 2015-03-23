@@ -31,7 +31,7 @@ public abstract class AbstractUiExperienceFilter implements BrowserFilter
 	public static final String UI_EXPERIENCE_PARAM = "uiExperienceParam";
 	private TypeService typeService;
 
-
+    System.out.println("hi");
 	public TypeService getTypeService()
 	{
 		return typeService;
